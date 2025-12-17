@@ -92,4 +92,5 @@ Cross-modal reranking using vision–text embeddings
 Hybrid retrieval combining dense and lexical search
 Retrieval fine-tuning using contrastive learning
 Evaluation dashboard for retrieval metrics and latency
+
 Summarization and briefing generation features
